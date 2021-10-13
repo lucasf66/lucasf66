@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasf66
-- 👀 I’m interested in webdesinger / front-end
+- 👀 I’m interested in dev front-end
 - 🌱 I’m currently learning html/css/javascript
 - 📫 How to reach me lucas.ferreira@cear.ufpb.br
 
