@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucasf66
-- 👀 I’m interested in dev front-end
-- 🌱 I’m currently learning html/css/javascript
+- 🌱 I’m currently learning python | shell script 
 - 📫 How to reach me lucas.ferreira@cear.ufpb.br
 <h3 align="left">Connect with me:</h3>
 <p align="left">
